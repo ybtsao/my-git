@@ -1,4 +1,4 @@
-##########
+﻿##########
 #Git ins #
 ##########
 
@@ -23,3 +23,8 @@ git checkout master hello.py
 
 git remote add origin <remote 網址>
 git push -u origin master
+
+git pull --rebase
+
+git push -f
+git reset --merge
