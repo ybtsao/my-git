@@ -1,0 +1,24 @@
+git ins
+
+
+git init
+
+git status
+
+git add .
+git reset
+git reset --hard
+
+git diff
+
+git commit -am "Init hello.py"
+
+git checkout -b newbranch_name
+
+git rm --cached hello.py
+git mv hello.py hello2.py 
+
+git checkout master hello.py
+
+git remote add origin <remote 網址>
+git push -u origin master
