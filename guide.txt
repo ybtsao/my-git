@@ -1,5 +1,6 @@
-git ins
-
+##########
+#Git ins #
+##########
 
 git init
 
